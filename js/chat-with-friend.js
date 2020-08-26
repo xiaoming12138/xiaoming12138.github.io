@@ -1,3 +1,7 @@
+var localVideo = document.getElementById('localVideo')
+var remoteVideo = document.getElementById('remoteVideo')
+
+
 // 产生随机数
 if (!location.hash) {
     location.hash = Math.floor(Math.random() * 0xFFFFFF).toString(16);
@@ -40,7 +44,7 @@ drone.on('open', function(error){
         console.log('MEMBERS', members);
 
         // 如果你是第二个链接到房间的人，就会创建offer
-        var isOfferer = members.length === 2;
+        var isOfferer = members.length >= 2;
         startWebRTC(isOfferer);
     });
 });
@@ -75,7 +79,8 @@ function startWebRTC(isOfferer) {
 
     // 当远程数据流到达时，将数据流装载到video中
     pc.onaddstream = function(event){
-        remoteVideo.srcObject = event.stream;
+      console.log(33333,event);
+      remoteVideo.srcObject = event.stream;
     };
 
     // 获取本地媒体流

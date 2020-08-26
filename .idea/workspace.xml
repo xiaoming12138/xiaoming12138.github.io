@@ -2,7 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28ee0775-63fe-4ba4-9d36-3de0cdcb3b48" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/http/mock.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/http/mock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/car.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/carbg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/css/app.49b8a580860f874c7fa538c30588aed5.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/css/app.49b8a580860f874c7fa538c30588aed5.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/img/carbg.0425a88.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/img/icomoon.18e8503.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/img/icomoon.2ab49cc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/0.2a76301adb4c687fe0aa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/0.2a76301adb4c687fe0aa.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/1.32fcb61b490e82b4921e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/1.32fcb61b490e82b4921e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/2.eb01b3c3a5eea5f09abb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/2.eb01b3c3a5eea5f09abb.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/3.353dcfb9b806c01ab453.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/3.353dcfb9b806c01ab453.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/4.9a195540cfe95094c4ff.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/4.9a195540cfe95094c4ff.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/5.d99acd1bfbb8b082304c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/5.d99acd1bfbb8b082304c.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/6.9c1ac74f5df0353d0067.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/6.9c1ac74f5df0353d0067.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/7.5aeb3ae6bf0c2a0f13ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/7.5aeb3ae6bf0c2a0f13ca.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/8.98bb65efbf24b887e5bf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/8.98bb65efbf24b887e5bf.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/app.48e04ee2ccd9e58618cc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/app.48e04ee2ccd9e58618cc.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/manifest.ff85866068e6ec3d28db.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/manifest.ff85866068e6ec3d28db.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/vendor.cc8a880c24f9eb795b22.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/vendor.cc8a880c24f9eb795b22.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/login.gif" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,45 +46,59 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="mock.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/http/mock.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+            <state relative-caret-position="153">
+              <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
               <folding>
+                <element signature="e#0#21#0" expanded="true" />
                 <element signature="e#192#215#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="api.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/http/api.js">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="401">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="mock.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/mock.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="8511" column="1" selection-start-line="8511" selection-start-column="1" selection-end-line="8511" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dist/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>remoteVideo</find>
+      <find>mock.js</find>
     </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -59,9 +106,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/chat-with-friend.js" />
         <option value="$PROJECT_DIR$/src/http/mock.js" />
+        <option value="$PROJECT_DIR$/static/mock.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -70,6 +118,9 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
@@ -97,13 +148,17 @@
             <path>
               <item name="xiaoming12138.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="xiaoming12138.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="xiaoming12138.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="xiaoming12138.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiaoming12138.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaoming12138.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -115,8 +170,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.stylelint" value="" />
+    <property name="node.js.selected.package.tslint" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -145,27 +203,27 @@
       <option name="presentableId" value="Default" />
       <updated>1596873293802</updated>
       <workItem from="1596873295555" duration="861000" />
-      <workItem from="1598435901012" duration="1696000" />
+      <workItem from="1598435901012" duration="2032000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2557000" />
+    <option name="totallyTimeSpent" value="2893000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32965517" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
+      <window_info anchor="bottom" id="Docker" order="7" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -174,7 +232,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,10 +269,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/http/api.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="41" column="24" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="24" />
+        <state relative-caret-position="102">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -226,28 +289,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.vue">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        <state relative-caret-position="153">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
           <folding>
+            <element signature="e#0#21#0" expanded="true" />
             <element signature="e#192#215#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/http/api.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="401">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/mock.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="8511" column="1" selection-start-line="8511" selection-start-column="1" selection-end-line="8511" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">

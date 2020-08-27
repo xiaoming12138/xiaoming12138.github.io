@@ -1,43 +1,33 @@
-# 技术栈
+**Note: This repo is no longer being maintained in favor of a newer, improved version: [https://github.com/sdras/ecommerce-netlify](https://github.com/sdras/ecommerce-netlify)**
 
-vue2.0 + vue-router + vuex + axios + mock.js(模拟数据) + ES6 + less
+# Vue Sample Shop
 
-## 简介
+This small demo shows how to accept payments with stripe with Vue.js using a
+serverless function. It's actually not that bad to set up! The shop also shows
+how a number of concepts work in Vue. Server side rendering and routing is done
+with Nuxt.js. Centralized state management with Vuex for product details. Of
+note, using computed properties, `.sync`, CSS Grid, and `transition-group`.
 
-vuex + webStorage 实现了购物车功能,axios拦截,配合路由钩子函数实现权限控制、登录、登出功能
+Live demo at
+[https://shoppity.azurewebsites.net/](https://shoppity.azurewebsites.net/)
 
-## 预览
+Articles explaining the demo will be available soon at
+[https://css-tricks.com/](https://css-tricks.com/)
 
-![](./static/car.gif)   ![](./static/login.gif)
+The serverless function is open source as well, available at this repo
+[https://github.com/sdras/sample-stripe-handler](https://github.com/sdras/sample-stripe-handler)
 
-
-## 经验
-
-1. 事先一定要先想好整个页面组成，怎样去分组件开发，这样在开发阶段会事半功倍
-
-2. 本质上vuex只是一个全局变量,所以刷新路由,state数据会清空,可配合webStorage实现响应式
-
-3. 所有webStorage存储应该通过dispatch操作
-
-4. 只做数据渲染,不做数据修改,不需要用vuex
-
-5. 简单的父子通信不需要用vuex
-
-## 待完成
-
-1. 购物车内编辑(增减商品)
-
-2. 搜索功能
-
+![Vue stripe sample shop](https://image.ibb.co/hYi7nm/shop_demo.gif "Vue Stripe Sample Shop")
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
-npm install
+$ npm install # Or yarn
 
-# serve with hot reload at localhost:1322
-npm run dev
+# serve with hot reload at localhost:3000
+$ npm run dev
 
-# build for production with minification
-npm run build
+# generate static project, get ready for launch on app services
+$ npm run generate
+```

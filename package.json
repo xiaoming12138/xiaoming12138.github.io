@@ -1,34 +1,53 @@
 {
-  "name": "shop",
-  "version": "1.0.0",
-  "description": "Nuxt.js project",
-  "author": "sdras <sarah.drasner@gmail.com>",
+  "name": "vuejs-shopping-card-cli3",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "nuxt",
-    "build": "nuxt build",
-    "generate": "nuxt generate --spa",
-    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
-    "precommit": "npm run lint"
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "axios": "^0.17.1",
-    "gsap": "^1.20.3",
-    "node-sass": "^4.7.2",
-    "nuxt": "^1.0.0-rc11",
-    "sass-loader": "^6.0.6",
-    "vue-stripe-elements-plus": "^0.2.6",
-    "vuex": "^3.0.1"
+    "bootstrap": "^4.3.1",
+    "core-js": "^3.6.5",
+    "firebase": "^7.14.1",
+    "vue": "^2.6.10",
+    "vue-router": "^3.0.6",
+    "vue-spinner": "^1.0.3",
+    "vuex": "^3.1.0"
   },
   "devDependencies": {
-    "babel-eslint": "^7.2.3",
-    "eslint": "^4.3.0",
-    "eslint-config-standard": "^10.2.1",
-    "eslint-loader": "^1.9.0",
-    "eslint-plugin-html": "^3.1.1",
-    "eslint-plugin-import": "^2.7.0",
-    "eslint-plugin-node": "^5.1.1",
-    "eslint-plugin-promise": "^3.5.0",
-    "eslint-plugin-standard": "^3.0.1"
-  }
+    "@vue/cli-plugin-babel": "^4.3.0",
+    "@vue/cli-plugin-eslint": "^4.3.0",
+    "@vue/cli-service": "^4.3.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.2.2",
+    "sass": "^1.26.3",
+    "sass-loader": "^8.0.2",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "rules": {},
+    "parserOptions": {
+      "parser": "babel-eslint"
+    }
+  },
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
 }

@@ -2,142 +2,118 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28ee0775-63fe-4ba4-9d36-3de0cdcb3b48" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/build.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/check-versions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/dev-client.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/dev-server.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/vue-loader.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/webpack.base.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/webpack.dev.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/webpack.prod.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/dev.env.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/prod.env.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/static/carbg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/static/css/app.ccced337f4c0c6b8276404fe43a7b3e0.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/static/img/carbg.0425a88.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/static/img/icomoon.18e8503.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/static/img/icomoon.2ab49cc.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/static/js/0.04d9546492f6111b8dba.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/static/js/1.29939c31b5fdfbf01255.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/static/js/2.18106d711853cbe030da.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/static/js/3.e9b8963390686d3ad2a3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/static/js/4.b7950b8da1e9b9ec4dad.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/static/js/5.1e94dcfed990e11c4021.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/static/js/6.3bf21ecca7ed794971b6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/static/js/7.b04c2a087c34f0db0745.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/static/js/8.6c3d6db96028f2891de2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/static/js/app.e81876689abf028fe59f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/static/js/manifest.6466ba4413fb32187429.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/static/js/vendor.cc8a880c24f9eb795b22.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/car.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/carbg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/css/app.4abcfa184113731184858a4bf5cb21f5.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/css/app.4abcfa184113731184858a4bf5cb21f5.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/img/carbg.0425a88.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/img/icomoon.18e8503.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/img/icomoon.2ab49cc.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/0.12cea818bc31f0486ba0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/0.12cea818bc31f0486ba0.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/1.eb19d0bb2727d50d0159.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/1.eb19d0bb2727d50d0159.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/2.8c4a7b27b973864134a5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/2.8c4a7b27b973864134a5.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/3.8695a4e477e175640656.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/3.8695a4e477e175640656.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/4.6fe8ce5f33c99bbf0a87.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/4.6fe8ce5f33c99bbf0a87.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/5.135c840decc87411f863.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/5.135c840decc87411f863.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/6.4777ca2611525a6a94ef.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/6.4777ca2611525a6a94ef.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/7.20ab26e886f88d9f4f00.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/7.20ab26e886f88d9f4f00.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/8.709cd37db7d09220b4ef.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/8.709cd37db7d09220b4ef.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/app.0f59c5d99fdbcda1a7c8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/app.0f59c5d99fdbcda1a7c8.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/manifest.75dd56117d67e4d26532.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/manifest.75dd56117d67e4d26532.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/vendor.8787bf18b09f0ab9e97e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/vendor.8787bf18b09f0ab9e97e.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/login.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/mock.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/car/images/add.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/car/images/cart.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/car/images/cut.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/car/images/f.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/car/images/laji.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/car/images/t.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/fz.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/index/fonts/icomoon.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/index/fonts/icomoon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/index/fonts/icomoon.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/index/fonts/icomoon.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/index/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/user/fonts/icomoon.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/user/fonts/icomoon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/user/fonts/icomoon.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/user/fonts/icomoon.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/user/icon/carstyle.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/user/icon/fonts/icomoon.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/user/icon/fonts/icomoon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/user/icon/fonts/icomoon.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/user/icon/fonts/icomoon.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/user/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/_baseline.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/_footer.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/_header.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/_loading.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/car/footer.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/car/gologin.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/car/nothing.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/car/pay/pay.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/car/something.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/category/aside.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/category/main.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/detail/chose.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/detail/content.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/detail/footer.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/detail/swiper.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/index/header.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/index/section1.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/index/section2.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/index/section3.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/index/section4.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/index/service.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/index/swiper.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/http/api.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/http/mock.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/util/common.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/Car.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/Category.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/Detail.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/Index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/Search.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/User.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/login.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vuex/modules/category.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vuex/modules/detail.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vuex/modules/login.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vuex/store.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vuex/types.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/car.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/carbg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/login.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/mock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/xiaoming12138.github.io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/xiaoming12138.github.io.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/client.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/components/no-ssr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/components/nuxt-child.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/components/nuxt-error.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/components/nuxt-link.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/components/nuxt-loading.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/components/nuxt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dist/LICENSES" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dist/app.237bcd543e8b05eaad19.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dist/index.spa.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dist/layouts/default.de2b3d48ec2c218ca1ac.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dist/manifest.7bbba3055dc9620a6a03.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dist/pages/cart.89c15565152d3c89f025.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dist/pages/index.ddab7de3860456cf88a8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dist/pages/men.b9128bec93de6b96f170.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dist/pages/sale.b7caa08a0b8bde23b019.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dist/pages/women.1b219176ebd607215c12.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dist/vendor.c8d9ace33fa5845f4a0a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dist/vue-ssr-client-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/empty.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/loading.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/middleware.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/router.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/store.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/views/app.template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/views/error.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/AppCheckout.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/AppFooter.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/AppItem.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/AppLoader.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/AppMasthead.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/AppNavigation.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/AppSidebar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/AppSuccess.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/AppSwitch.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/.nojekyll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/LICENSES" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/app.237bcd543e8b05eaad19.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/layouts/default.de2b3d48ec2c218ca1ac.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/manifest.7bbba3055dc9620a6a03.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/pages/cart.89c15565152d3c89f025.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/pages/index.ddab7de3860456cf88a8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/pages/men.b9128bec93de6b96f170.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/pages/sale.b7caa08a0b8bde23b019.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/pages/women.1b219176ebd607215c12.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/vendor.c8d9ace33fa5845f4a0a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/banner-ppl-women.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/banner-ppl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/bk-sale.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/cart/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/hat1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/jacket1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/jacket2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/jacket3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/jacket4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/men/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/sale/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/shirt1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/shirt2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/shoe1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/sweater1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/sweater2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/sweater3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/sweater4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/sweater5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/women/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/default.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nuxt.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/cart.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/men.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/sale.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/women.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/banner-ppl-women.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/banner-ppl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bk-sale.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/hat1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/jacket1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/jacket2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/jacket3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/jacket4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/shirt1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/shirt2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/shoe1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/sweater1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/sweater2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/sweater3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/sweater4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/sweater5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -148,20 +124,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-            </state>
-          </provider>
+      <file leaf-file-name="vuejs-shopping-cart-products-export.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/vuejs-shopping-cart-products-export.json">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dist/index.html">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+            <state relative-caret-position="-71">
+              <caret line="29" column="19" lean-forward="true" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -181,7 +153,11 @@
       <find>mock.js</find>
       <find>punc</find>
       <find>([)</find>
+      <find>/_nuxt</find>
     </findStrings>
+    <replaceStrings>
+      <replace>/dist/_nuxt</replace>
+    </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
     </dirStrings>
@@ -198,6 +174,8 @@
         <option value="$PROJECT_DIR$/config/index.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/dist/index.html" />
+        <option value="$PROJECT_DIR$/vue.config.js" />
       </list>
     </option>
   </component>
@@ -206,9 +184,6 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
@@ -236,7 +211,7 @@
             <path>
               <item name="xiaoming12138.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="xiaoming12138.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -286,24 +261,23 @@
       <option name="presentableId" value="Default" />
       <updated>1596873293802</updated>
       <workItem from="1596873295555" duration="861000" />
-      <workItem from="1598435901012" duration="4348000" />
+      <workItem from="1598435901012" duration="6940000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5209000" />
+    <option name="totallyTimeSpent" value="7801000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32965517" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32965517" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
       <window_info anchor="bottom" id="Docker" order="7" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -427,17 +401,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/dist/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/index.html">
+    <entry file="file://$PROJECT_DIR$/data/vuejs-shopping-cart-products-export.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/babel.config.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue.config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+        <state relative-caret-position="216">
+          <caret line="25" column="12" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-71">
+          <caret line="29" column="19" lean-forward="true" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
         </state>
       </provider>
     </entry>
